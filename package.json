@@ -1,0 +1,20 @@
+{
+  "name": "dev_nomadea",
+  "version": "0.0.1",
+  "description": "Engenharia de Software II",
+  "homepage": "https://github.com/9EAlves/dev_nomadEA#readme",
+  "bugs": {
+    "url": "https://github.com/9EAlves/dev_nomadEA/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9EAlves/dev_nomadEA.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

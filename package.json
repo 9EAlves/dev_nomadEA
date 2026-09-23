@@ -1,7 +1,7 @@
 {
   "name": "dev_nomadea",
   "version": "0.0.1",
-  "description": "Engenharia de Software II",
+  "description": "Backend javascript SOLID Clean Architecture Engine and Infrastruture",
   "homepage": "https://github.com/9EAlves/dev_nomadEA#readme",
   "bugs": {
     "url": "https://github.com/9EAlves/dev_nomadEA/issues"
@@ -10,14 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/9EAlves/dev_nomadEA.git"
   },
-  "license": "ISC",
-  "author": "",
+  "license": "MIT",
+  "author": "Eduardo Alves",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "firebase": "^12.19.0"
   }
 }
